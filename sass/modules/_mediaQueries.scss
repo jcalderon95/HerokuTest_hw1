@@ -1,0 +1,25 @@
+@media screen and (min-width: 800px){
+	.welcomeSection{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-top: 150px;
+        margin-bottom: 150px;
+
+        img{
+            margin: 0;
+        }
+    }
+
+    .productsCon{
+        display: flex;
+        flex-direction: row;
+
+            img{
+                width: 100%;
+            }
+    
+    }
+}
