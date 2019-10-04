@@ -14,7 +14,6 @@
 
         function closeLightbox(e){
             navLightbox.classList.remove("navLightboxOn"); 
-
         }
 
         button.addEventListener("click", openLightbox);
