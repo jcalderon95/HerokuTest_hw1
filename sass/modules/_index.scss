@@ -49,10 +49,13 @@
         display: block;
         margin: 0 auto;
         margin-top: 40px;
-        transition: all .3s ease-in;
+        transition: .3s ease-in;
 
         &:hover{
-            transform: scale(1.01);
+            transform: scale(1.04);
         }
     }
 }
+
+
+
